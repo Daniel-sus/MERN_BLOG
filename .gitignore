@@ -14,3 +14,19 @@ lerna-debug.log*
 
 # OS
 .DS_Store
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Environment
+.env
+
+# Keys and certs
+*.key
+*.crt
+*.pem
+*.cer
